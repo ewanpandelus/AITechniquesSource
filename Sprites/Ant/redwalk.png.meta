@@ -1,0 +1,1620 @@
+fileFormatVersion: 2
+guid: c175a881b5dda1e4ca39b7335f611c14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3506265802594663871
+    second: redwalk_0
+  - first:
+      213: -8378667748997077075
+    second: redwalk_1
+  - first:
+      213: -8832775799090633135
+    second: redwalk_2
+  - first:
+      213: 3394994850566800489
+    second: redwalk_3
+  - first:
+      213: 8161413288065822838
+    second: redwalk_4
+  - first:
+      213: 5490221062394505626
+    second: redwalk_5
+  - first:
+      213: 6963235286912917176
+    second: redwalk_6
+  - first:
+      213: -761266505250903860
+    second: redwalk_7
+  - first:
+      213: -6838022394626637010
+    second: redwalk_8
+  - first:
+      213: -8722151101265750444
+    second: redwalk_9
+  - first:
+      213: -692055586247184049
+    second: redwalk_10
+  - first:
+      213: 2425404772957752588
+    second: redwalk_11
+  - first:
+      213: -8943755014956842522
+    second: redwalk_12
+  - first:
+      213: -6896340175524524842
+    second: redwalk_13
+  - first:
+      213: 7835066427719652031
+    second: redwalk_14
+  - first:
+      213: 4272538225715299283
+    second: redwalk_15
+  - first:
+      213: 2532653553645090431
+    second: redwalk_16
+  - first:
+      213: 3319238929770912297
+    second: redwalk_17
+  - first:
+      213: 9057922467936580221
+    second: redwalk_18
+  - first:
+      213: 8421209758193988834
+    second: redwalk_19
+  - first:
+      213: -9191415460149757041
+    second: redwalk_20
+  - first:
+      213: -6368832364945791092
+    second: redwalk_21
+  - first:
+      213: 1728351883729978045
+    second: redwalk_22
+  - first:
+      213: -68428112776462530
+    second: redwalk_23
+  - first:
+      213: 5554841533099356651
+    second: redwalk_24
+  - first:
+      213: -626106847346159499
+    second: redwalk_25
+  - first:
+      213: -7709461998939482750
+    second: redwalk_26
+  - first:
+      213: -7101133971360588028
+    second: redwalk_27
+  - first:
+      213: -1681653459533148013
+    second: redwalk_28
+  - first:
+      213: -6286935241906072128
+    second: redwalk_29
+  - first:
+      213: -1050499460573302642
+    second: redwalk_30
+  - first:
+      213: -8908461971152650681
+    second: redwalk_31
+  - first:
+      213: -3595705003930145856
+    second: redwalk_32
+  - first:
+      213: 5082402915907829095
+    second: redwalk_33
+  - first:
+      213: 751929280653892741
+    second: redwalk_34
+  - first:
+      213: -3238792171883100726
+    second: redwalk_35
+  - first:
+      213: 3914722671488060384
+    second: redwalk_36
+  - first:
+      213: 6410087783808203105
+    second: redwalk_37
+  - first:
+      213: 3618927135017049732
+    second: redwalk_38
+  - first:
+      213: -3195122466019420246
+    second: redwalk_39
+  - first:
+      213: 1673936745710708100
+    second: redwalk_40
+  - first:
+      213: 8081813808948595502
+    second: redwalk_41
+  - first:
+      213: 1643016911612805872
+    second: redwalk_42
+  - first:
+      213: -3329254449012413718
+    second: redwalk_43
+  - first:
+      213: -5901991841649134410
+    second: redwalk_44
+  - first:
+      213: 2903525527141835175
+    second: redwalk_45
+  - first:
+      213: 1604045562417352051
+    second: redwalk_46
+  - first:
+      213: -3947368759940393071
+    second: redwalk_47
+  - first:
+      213: 1981953355475089836
+    second: redwalk_48
+  - first:
+      213: 282668273628944381
+    second: redwalk_49
+  - first:
+      213: -5494304296626184949
+    second: redwalk_50
+  - first:
+      213: -3938972104308590998
+    second: redwalk_51
+  - first:
+      213: 2211685232736776049
+    second: redwalk_52
+  - first:
+      213: 6767193026607638271
+    second: redwalk_53
+  - first:
+      213: 7735784766591405649
+    second: redwalk_54
+  - first:
+      213: -5634961345054765944
+    second: redwalk_55
+  - first:
+      213: 2565594224675263740
+    second: redwalk_56
+  - first:
+      213: -1777984246518831047
+    second: redwalk_57
+  - first:
+      213: -7547940054726364130
+    second: redwalk_58
+  - first:
+      213: 1618523658359832144
+    second: redwalk_59
+  - first:
+      213: -5196460538760083796
+    second: redwalk_60
+  - first:
+      213: -5305643841631716655
+    second: redwalk_61
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: redwalk_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1738
+        width: 197
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142ce3c54dd375fc0800000000000000
+      internalID: -3506265802594663871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_1
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1739
+        width: 196
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7e10a031ef8bb80800000000000000
+      internalID: -8378667748997077075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1740
+        width: 197
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1562982753dab6580800000000000000
+      internalID: -8832775799090633135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1741
+        width: 197
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964805244d17d1f20800000000000000
+      internalID: 3394994850566800489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_4
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1741
+        width: 198
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670f05cf42a234170800000000000000
+      internalID: 8161413288065822838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_5
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1741
+        width: 197
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a996462c7fe213c40800000000000000
+      internalID: 5490221062394505626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_6
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1741
+        width: 197
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bed8e3c99162a060800000000000000
+      internalID: 6963235286912917176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_7
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 1741
+        width: 197
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8ed1795207f65f0800000000000000
+      internalID: -761266505250903860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1493
+        width: 199
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e230d1a8cd67a11a0800000000000000
+      internalID: -6838022394626637010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_9
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1493
+        width: 197
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d5cb09c1b4f680800000000000000
+      internalID: -8722151101265750444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1493
+        width: 198
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4179e86c135566f0800000000000000
+      internalID: -692055586247184049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_11
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1493
+        width: 198
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d0fa86ac4c8a120800000000000000
+      internalID: 2425404772957752588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_12
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1493
+        width: 198
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1016f233661e380800000000000000
+      internalID: -8943755014956842522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_13
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1493
+        width: 199
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc0b9316274b40a0800000000000000
+      internalID: -6896340175524524842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_14
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1493
+        width: 199
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb291df676fbbbc60800000000000000
+      internalID: 7835066427719652031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_15
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1493
+        width: 200
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c90121ea1b4b30800000000000000
+      internalID: 4272538225715299283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1245
+        width: 200
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76752c0dfac52320800000000000000
+      internalID: 2532653553645090431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1245
+        width: 199
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a94a5783e401e20800000000000000
+      internalID: 3319238929770912297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1245
+        width: 198
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72b3606e7434bd70800000000000000
+      internalID: 9057922467936580221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_19
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1245
+        width: 199
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b43858a52ed470800000000000000
+      internalID: 8421209758193988834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_20
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1245
+        width: 198
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b7db25658817080800000000000000
+      internalID: -9191415460149757041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_21
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1245
+        width: 198
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87256525bc5d97a0800000000000000
+      internalID: -6368832364945791092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_22
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1245
+        width: 197
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db24a9c81e65cf710800000000000000
+      internalID: 1728351883729978045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_23
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1245
+        width: 196
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ffe457ef4ec0ff0800000000000000
+      internalID: -68428112776462530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 997
+        width: 196
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be139fb81f2c61d40800000000000000
+      internalID: 5554841533099356651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_25
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 997
+        width: 196
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5701e7cb32f9f47f0800000000000000
+      internalID: -626106847346159499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_26
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 997
+        width: 195
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285d6df882d720590800000000000000
+      internalID: -7709461998939482750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_27
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 997
+        width: 194
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fd796c644b37d90800000000000000
+      internalID: -7101133971360588028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_28
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 997
+        width: 193
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390583d961199a8e0800000000000000
+      internalID: -1681653459533148013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_29
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 997
+        width: 192
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5dd4405b150c8a0800000000000000
+      internalID: -6286935241906072128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_30
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 997
+        width: 192
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80f9cf6e40eb61f0800000000000000
+      internalID: -1050499460573302642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_31
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 997
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ebe5a4909ce5480800000000000000
+      internalID: -8908461971152650681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 749
+        width: 192
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb26ab895d791ec0800000000000000
+      internalID: -3595705003930145856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 749
+        width: 194
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d78183682588640800000000000000
+      internalID: 5082402915907829095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 749
+        width: 194
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c179562b36f6a00800000000000000
+      internalID: 751929280653892741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_35
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 749
+        width: 195
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac58795fdaf7d03d0800000000000000
+      internalID: -3238792171883100726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_36
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 749
+        width: 195
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebc6345783e35630800000000000000
+      internalID: 3914722671488060384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_37
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 749
+        width: 196
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16975f490e435f850800000000000000
+      internalID: 6410087783808203105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_38
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 749
+        width: 196
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e96be2e03093230800000000000000
+      internalID: 3618927135017049732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_39
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 749
+        width: 197
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7da0fab05a8a3d0800000000000000
+      internalID: -3195122466019420246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 501
+        width: 197
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4856f80f9940b3710800000000000000
+      internalID: 1673936745710708100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 501
+        width: 198
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4a3707de582070800000000000000
+      internalID: 8081813808948595502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_42
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 501
+        width: 198
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f204a01d2b2dc610800000000000000
+      internalID: 1643016911612805872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_43
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 501
+        width: 198
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeae9bfb7bc1cc1d0800000000000000
+      internalID: -3329254449012413718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_44
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 501
+        width: 199
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4ff3ba0b9e71ea0800000000000000
+      internalID: -5901991841649134410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_45
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 501
+        width: 199
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1619955156b4820800000000000000
+      internalID: 2903525527141835175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_46
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 501
+        width: 200
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d8d6fb0f6b24610800000000000000
+      internalID: 1604045562417352051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_47
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 501
+        width: 198
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1975742e6012839c0800000000000000
+      internalID: -3947368759940393071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 253
+        width: 199
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97c727310518b10800000000000000
+      internalID: 1981953355475089836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 253
+        width: 199
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df71de61c4d3ce300800000000000000
+      internalID: 282668273628944381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_50
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 253
+        width: 199
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d91bf2a5f40c3b0800000000000000
+      internalID: -5494304296626184949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_51
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 253
+        width: 199
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66738e9db5f559c0800000000000000
+      internalID: -3938972104308590998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_52
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 253
+        width: 198
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fa04c400c71be10800000000000000
+      internalID: 2211685232736776049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_53
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 253
+        width: 198
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6e27d1436e9ed50800000000000000
+      internalID: 6767193026607638271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_54
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 253
+        width: 199
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e0f8f52470b5b60800000000000000
+      internalID: 7735784766591405649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_55
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 253
+        width: 197
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c04f013889cc1b0800000000000000
+      internalID: -5634961345054765944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 197
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4109faa52da9320800000000000000
+      internalID: 2565594224675263740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_57
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 197
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938210a7fb45357e0800000000000000
+      internalID: -1777984246518831047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_58
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 5
+        width: 198
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14b71cc284504790800000000000000
+      internalID: -7547940054726364130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_59
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 5
+        width: 197
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e7a1521b6267610800000000000000
+      internalID: 1618523658359832144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_60
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 5
+        width: 198
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6ced90ca672e7b0800000000000000
+      internalID: -5196460538760083796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redwalk_61
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 3
+        width: 197
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da7dca59019e56b0800000000000000
+      internalID: -5305643841631716655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
